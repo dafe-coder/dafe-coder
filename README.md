@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a class="fw" style="border-bottom: 2px solid blue;display:inline-block;" href="https://t.me/@daffek" rel="nofollow" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" height="30" width="30" alt="telegram"/></a>
+<a class="fw" style="border-bottom: 2px solid blue;display:inline-block;" href="https://t.me/daffek" rel="nofollow" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" height="30" width="30" alt="telegram"/></a>
 <a href="https://instagram.com/dafe_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dafe_coder" height="30" width="40" /></a>
 <a href="https://codepen.io/daffek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="daffek" height="30" width="40" /></a>
 <a href="https://twitter.com/_daffek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_daffek" height="30" width="40" /></a>
